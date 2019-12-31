@@ -1,4 +1,4 @@
-// For double Hashing 
+// For double Hashing (Have to be replaced with any larger primes)
 const HtPrime1 = 5;
 const HtPrime2 = 7;
 
